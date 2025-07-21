@@ -217,7 +217,7 @@ generate manpages and possibly more in the future. Some of the
 
 ### Submitting Changes
 
-Once your changes are complete, remember to run [fix.sh](./fix.sh) to applyg
+Once your changes are complete, remember to run [fix.sh](./fix.sh) to apply
 general formatter and linter rules that will be expected by the CI.
 
 Lastly, update the [changelog](/CHANGELOG.md) and open your pull request.
